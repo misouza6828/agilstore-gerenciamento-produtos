@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "iPhone 13",
+    "categoria": "Smartphone",
+    "quantidade": 5,
+    "preco": 4500
+  },
+  {
+    "id": 2,
+    "nome": "Iphone 17",
+    "categoria": "smatphone",
+    "quantidade": 14,
+    "preco": 18200
+  }
+]
